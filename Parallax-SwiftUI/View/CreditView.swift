@@ -5,6 +5,8 @@
 //  Created by Kevin ahmad on 17/07/22.
 //
 
+// this is the view for the upper side of the display
+
 import SwiftUI
 
 struct CreditView: View {
