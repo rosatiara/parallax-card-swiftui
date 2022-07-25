@@ -16,6 +16,7 @@ struct HomeView: View {
     
     var body: some View {
         VStack {
+            // stack the credit and tab view vertically
             CreditView()
             TabView {
                 ForEach(cardDatas){ data in
